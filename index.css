@@ -1,0 +1,38 @@
+.conatiner
+{
+    text-align: center;
+    display: flexbox;
+    flex-direction: row;
+}
+.center
+{
+   text-align: center; 
+   text-shadow: 4px  6px 7px solid red;
+}
+.button
+{
+    width:64px;
+    height:58px;
+    border: 3px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 5px;
+    font-size: x-large;
+
+    
+}
+.IN
+{
+  margin-top:2px;
+  height:23px;
+  width:50px;
+
+}
+.row input{
+    padding: 0px;
+    margin: 22px;
+    width:282px;
+    height: 54px;
+    border: 3px solid black;
+    font-size: xx-large;
+}
